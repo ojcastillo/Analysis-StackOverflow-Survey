@@ -12,3 +12,8 @@ installed ([instructions](https://docs.conda.io/projects/conda/en/latest/user-gu
 ```bash
 . init_workspace.sh
 ```
+
+## Acknowledgements
+
+Data is directly taken from [StackOverflow](https://insights.stackoverflow.com/survey/) and licensed
+under the [Open Database License (ODbL)](https://opendatacommons.org/licenses/odbl/1.0/).
