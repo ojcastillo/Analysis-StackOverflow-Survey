@@ -3,6 +3,8 @@ Analysis of StackOverflow Survey trends with a focus in Venezuela
 
 ## Initial Setup
 
+### Installing Dependencies
+
 You can find all the Python dependencies in the `requirements.txt` file. It is recommended to use a
 `conda` managed environment
 
@@ -11,6 +13,15 @@ installed ([instructions](https://docs.conda.io/projects/conda/en/latest/user-gu
 
 ```bash
 . init_workspace.sh
+```
+
+### Downloading Datasets
+
+Use the following command to download the survey results for the year 2017, 2018 and 2019 to a
+folder named `datasets`:
+
+```bash
+sh download_datasets.sh
 ```
 
 ## Acknowledgements
