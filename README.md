@@ -1,5 +1,7 @@
 # StackOverflow Survey Analysis
 
+**[Link to Blog Post](https://medium.com/@jcm.orlando/stack-overflow-a-global-perspective-4645871c05ea)**
+
 Since 2011, Stack Overflow has been running an
 [Annual Developer](https://insights.stackoverflow.com/survey/) survey that
 examines all aspects of the developer experience, from career satisfaction and
