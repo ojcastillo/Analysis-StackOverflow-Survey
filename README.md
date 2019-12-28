@@ -87,6 +87,11 @@ and 2019 to a folder named `datasets`:
 sh download_datasets.sh
 ```
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md)
+file for details
+
 ## Acknowledgements
 
 Data is directly taken from
